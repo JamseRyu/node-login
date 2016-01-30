@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:braitsch/node-login.git"
+		"url": "git@github.com:JamseRyu/node-login.git"
 	},
 	"dependencies": {
 		"express": "4.13.3",
